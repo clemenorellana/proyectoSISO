@@ -1,0 +1,1 @@
+cmd_/home/clemen/Desktop/test_ioctl_tres/query_ioctl.ko := ld -r -m elf_i386 -T /usr/src/linux-3.0/scripts/module-common.lds --build-id  -o /home/clemen/Desktop/test_ioctl_tres/query_ioctl.ko /home/clemen/Desktop/test_ioctl_tres/query_ioctl.o /home/clemen/Desktop/test_ioctl_tres/query_ioctl.mod.o
